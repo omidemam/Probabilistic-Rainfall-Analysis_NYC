@@ -15,5 +15,10 @@ This paper analyzes 140 years of Central Park precipitation using methods like S
 ## Dataset:
 The dataset is publicly available on Kaggle: [Central Park Weather Data 1869-2022](https://www.kaggle.com/datasets/danbraswell/new-york-city-weather-18692022).
 
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/omidemam/NYC_AQI.git
+
 ## Citation:
 If you use this repository, please cite the associated report and GitHub repository.
